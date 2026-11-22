@@ -1,7 +1,8 @@
 <div align="center">
 
   <img src="/assets/bannerHAWK.png" alt="HAWK Banner" width="100%" />
-
+  <br>
+  <br>
   <p align="center">
     <!-- Links rápidos de navegação / ação -->
     <a href="https://youtu.be/V-KrAMAVZYk" target="_blank">
@@ -14,7 +15,6 @@
       <img src="https://img.shields.io/badge/Plataforma-HAWK%20Control-2F5D50?style=for-the-badge&logo=vercel&logoColor=white" alt="HAWK Control Live" />
     </a>
   </p>
-
   <p align="center">
     <!-- Tecnologias -->
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -37,7 +37,7 @@ As cidades contemporâneas enfrentam múltiplos desafios de mobilidade e inclus�
 
 Semáforos com temporizadores fixos e inflexíveis ignoram a diversidade humana e as diferentes velocidades de marcha. Para muitos cidadãos, a contagem regressiva convencional representa insegurança e risco constante de acidentes.
 
-> [!INFO]
+> [!WARNING]
 > **Populações mais vulneráveis a ciclos semafóricos estáticos:**
 > - Pessoas idosas;
 > - Pessoas com deficiência ou mobilidade reduzida permanente ou temporária;
